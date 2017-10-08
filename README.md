@@ -1,6 +1,11 @@
 # List of Open Source
 Links to github source code mostly
 
+- [Audio](#audio)
+- [Business/Education](#businesseducation)
+- [Developer Tools](#developer-tools)
+- [Gaming](#gaming)
+
 ## Audio
 - [Audacity](http://www.audacityteam.org/) - A free audio editor and recorder. 
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, OS X and Windows
