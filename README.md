@@ -6,14 +6,21 @@ Links to github source code mostly
 - [Atom](https://github.com/atom/atom)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Spacemacs](https://github.com/syl20bnr/spacemacs)
+- [Emacs](https://www.gnu.org/software/emacs/)
 - [Light Table](https://github.com/LightTable/LightTable)
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+- [Notepad++](https://notepad-plus-plus.org/)
 
 #### IDEs
 - [Code Blocks](http://www.codeblocks.org/downloads) - C, C++ and Fortran 
 - [Eclipse](https://www.eclipse.org/downloads/) - C, C++, Java and PHP
 - [Codelite](https://codelite.org/) - C, C++, PHP and JavaScript
 - [NetBeans](https://netbeans.org/) -  Java, JavaScript, HTML5, PHP, C/C++
+- [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - C/C++
+- [DrJava](https://sourceforge.net/projects/drjava/?source=directory) - Java
+- [Aptana](http://www.aptana.com/) - Web Development IDE
+- [BlueGriffon](http://www.bluegriffon.org/) - Web and EPUB Editor
+- [SeaMonkey](https://www.seamonkey-project.org/) - HTML 
 
 ## Gaming
 #### Open Source Games
@@ -44,6 +51,5 @@ Links to github source code mostly
 #### 2D Animation
 - [Synfig](https://www.synfig.org/)
 - [StopGo](http://makerbox.org.nz/stopgo/) - StopGo captures images from your webcam and assembles them into a video
-- []()
 
 ## Audio
