@@ -48,8 +48,35 @@ Links to github source code mostly
 - [Hugin](http://hugin.sourceforge.net/) - Hugin is a tool that allows you to stitch together photos in order to create panoramic photos.
 
 ## Video
-#### 2D Animation
+- [VLC](https://www.videolan.org/vlc/index.html) - cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. 
+- [Media Player Classic](https://sourceforge.net/projects/mpc-hc/?source=directory)
+
+#### Video Editing
+- [VirtualDub](http://virtualdub.org/index.html) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms
+- [Shotcut](https://www.shotcut.org) - cross-platform video editor.
+- [OpenShot](http://www.openshot.org/) - an easy to use, quick to learn, and powerful video editor.
+- [VidoLAN](https://www.videolan.org/vlmc/) - VideoLAN Movie Creator is a non-linear editing software for video creation
+- [Kdenlive](https://kdenlive.org/)
+
+#### Animation
 - [Synfig](https://www.synfig.org/)
 - [StopGo](http://makerbox.org.nz/stopgo/) - StopGo captures images from your webcam and assembles them into a video
+- [Blender](https://www.blender.org/) - modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 
 ## Audio
+- [Audacity](http://www.audacityteam.org/) - A free audio editor and recorder. 
+- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, OS X and Windows
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+
+## Business/Education
+- [LibreOffice](https://www.libreoffice.org/) - microsoft office alternative
+- [Birt](http://www.eclipse.org/birt/) - An open source technology platform used to create data visualizations and reports
+- [JasperReports® Library](http://community.jaspersoft.com/project/jasperreports-library) - The JasperReports is able to use data coming from any kind of data source and produce pixel-perfect documents that can be viewed, printed or exported in a variety of document formats
+- [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856) - Suite of Open Source reporting tools that enables the creation of relational and analytical reports from a wide range of data sources.
+- [Seal Report](http://www.sealreport.org/) - an open source framework for producing reports and dashboard from any open database.
+- [ReportServer](https://reportserver.net/en/) - ReportServer allows for reporting, ad-hoc analyses, Excel and Word reporting, and multidimensional OLAP analytics.
+- [Helical Insight](http://helicalinsight.com/) - an open source BI framework that provides e-mail scheduling, visualization, exporting, multi-tenancy, user role management
+
+
+
+
