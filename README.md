@@ -5,6 +5,8 @@ Links to github source code mostly
 - [Business/Education](#businesseducation)
 - [Developer Tools](#developer-tools)
 - [Gaming](#gaming)
+- [Image](#image)
+- [Video](#video)
 
 ## Audio
 - [Audacity](http://www.audacityteam.org/) - A free audio editor and recorder. 
