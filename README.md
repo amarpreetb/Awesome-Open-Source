@@ -1,3 +1,5 @@
+![](opensource-logo.png)
+
 # List of Open Source
 Links to github source code mostly
 
