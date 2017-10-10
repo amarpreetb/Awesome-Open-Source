@@ -15,6 +15,7 @@ Links to github source code mostly
 - [Audacity](http://www.audacityteam.org/) - A free audio editor and recorder. 
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, OS X and Windows
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/)
+- [Airtime](https://www.sourcefabric.org/en/airtime/) - radio software for scheduling and remote station management.
 
 ## Business/Education
 - [LibreOffice](https://www.libreoffice.org/) - microsoft office alternative
@@ -46,6 +47,10 @@ Links to github source code mostly
 - [Aptana](http://www.aptana.com/) - Web Development IDE
 - [BlueGriffon](http://www.bluegriffon.org/) - Web and EPUB Editor
 - [SeaMonkey](https://www.seamonkey-project.org/) - HTML 
+- [SharpDevelop](http://www.icsharpcode.net/OpenSource/SD/Default.aspx) - The Open Source Development Environment for .NET
+
+#### Debugger
+- [x64dbg](https://x64dbg.com/#start) -  x64/x32 debugger for windows.
 
 ## Gaming
 #### Open Source Games
