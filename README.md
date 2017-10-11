@@ -7,7 +7,7 @@ For more open source software visit https://sourceforge.net/
 ## Category
 - [Audio](#audio)
 - [Business/Education](#businesseducation)
-- [Books](#books)
+- [Books](#books) - Free Books
 - [Developer Tools](#developer-tools)
 - [File Sharing](#file-sharing)
 - [Gaming](#gaming)
@@ -30,7 +30,7 @@ For more open source software visit https://sourceforge.net/
 - [ReportServer](https://reportserver.net/en/) - ReportServer allows for reporting, ad-hoc analyses, Excel and Word reporting, and multidimensional OLAP analytics.
 - [Helical Insight](http://helicalinsight.com/) - an open source BI framework that provides e-mail scheduling, visualization, exporting, multi-tenancy, user role management
 
-## Books - Free Books
+## Books 
 #### C
 - [The C Book](http://publications.gbdirect.co.uk/c_book/)
 - [C Element of Style](http://www.oualline.com/books.free/style/index.html)
