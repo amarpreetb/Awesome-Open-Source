@@ -1,12 +1,14 @@
 ![](opensource-logo.png)
 
-# List of Open Source
+# List of Open Source Software 
 Links to github source code mostly
 
 ## Category
 - [Audio](#audio)
 - [Business/Education](#businesseducation)
+- [Books](#books)
 - [Developer Tools](#developer-tools)
+- [File Sharing](#file-sharing)
 - [Gaming](#gaming)
 - [Image](#image)
 - [Video](#video)
@@ -19,6 +21,7 @@ Links to github source code mostly
 
 ## Business/Education
 - [LibreOffice](https://www.libreoffice.org/) - microsoft office alternative
+- [Apache Open Office](https://www.openoffice.org/) - The Free and Open Productivity Suite
 - [Birt](http://www.eclipse.org/birt/) - An open source technology platform used to create data visualizations and reports
 - [JasperReports® Library](http://community.jaspersoft.com/project/jasperreports-library) - The JasperReports is able to use data coming from any kind of data source and produce pixel-perfect documents that can be viewed, printed or exported in a variety of document formats
 - [Pentaho Reporting](https://community.hds.com/docs/DOC-1009856) - Suite of Open Source reporting tools that enables the creation of relational and analytical reports from a wide range of data sources.
@@ -26,6 +29,22 @@ Links to github source code mostly
 - [ReportServer](https://reportserver.net/en/) - ReportServer allows for reporting, ad-hoc analyses, Excel and Word reporting, and multidimensional OLAP analytics.
 - [Helical Insight](http://helicalinsight.com/) - an open source BI framework that provides e-mail scheduling, visualization, exporting, multi-tenancy, user role management
 
+## Books - Free Books
+#### C
+- [The C Book](http://publications.gbdirect.co.uk/c_book/)
+- [C Element of Style](http://www.oualline.com/books.free/style/index.html)
+- [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/)
+- [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf)
+- [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+- [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
+- [Modern C](http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
+- [An Introduction to GCC](http://www.network-theory.co.uk/docs/gccintro/)
+
+#### C++
+- [The Boost C++ Libraries](https://theboostcpplibraries.com/)
+- [C++ Annotations ](http://www.icce.rug.nl/documents/cplusplus/)
+- [How to Think Like a Computer Scientist ](http://greenteapress.com/thinkcpp/index.html)
+- [Open Data Structures (in C++)](http://opendatastructures.org/ods-cpp/)
 
 ## Developer Tools
 #### Text Editors
@@ -51,6 +70,9 @@ Links to github source code mostly
 
 #### Debugger
 - [x64dbg](https://x64dbg.com/#start) -  x64/x32 debugger for windows.
+
+## File Sharing
+- [qBittorrent](https://www.qbittorrent.org/) - A free and reliable P2P BitTorrent client
 
 ## Gaming
 #### Open Source Games
