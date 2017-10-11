@@ -1,7 +1,8 @@
 ![](opensource-logo.png)
 
-# List of Open Source Software 
-Links to github source code mostly
+# List of Open Source Software
+
+For more open source software visit https://sourceforge.net/
 
 ## Category
 - [Audio](#audio)
