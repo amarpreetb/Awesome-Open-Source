@@ -81,6 +81,16 @@ For more open source software visit https://sourceforge.net/
 - [0 A.D.](https://github.com/0ad/0ad)
 - [Craft](https://github.com/fogleman/Craft) - Minecraft clone
 - [Mario SDL](https://github.com/jakowskidev/uMario_Jakowski) - SDL Mario
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - Open source re-implementation of RollerCoaster Tycoon 2
+
+#### Mincraft Alternatives
+- [Minetest](https://www.minetest.net/)
+- [Terasology](http://terasology.org/)
+- [Craft](https://github.com/fogleman/Craft)
+- [voxel.js](http://voxeljs.com/)
+- [TrueCraft](https://github.com/SirCmpwn/TrueCraft) 
+- [Voxelands](https://www.voxelands.com/)
+- [Freeminer](https://github.com/freeminer/freeminer)
 
 #### Engines
 - [Godot](https://github.com/godotengine/godot) - Multi-platform 2D and 3D game engine
