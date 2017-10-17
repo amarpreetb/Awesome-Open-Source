@@ -110,6 +110,10 @@ For more open source software visit https://sourceforge.net/
 - [Entangle](https://entangle-photo.org/) - allows you to tether your digital camera to your computer and enables you to control your camera completely from the computer.
 - [Hugin](http://hugin.sourceforge.net/) - Hugin is a tool that allows you to stitch together photos in order to create panoramic photos.
 
+## Operating System
+- [Ubuntu](https://www.ubuntu.com/) - Popular Linux OS
+- [ReactOS](https://reactos.org/) - ReactOS looks like Windows and is able to run many Windows applications. 
+
 ## Video
 - [VLC](https://www.videolan.org/vlc/index.html) - cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. 
 - [Media Player Classic](https://sourceforge.net/projects/mpc-hc/?source=directory)
@@ -126,3 +130,5 @@ For more open source software visit https://sourceforge.net/
 - [StopGo](http://makerbox.org.nz/stopgo/) - StopGo captures images from your webcam and assembles them into a video
 - [Blender](https://www.blender.org/) - modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 
+## Web Browsers
+- [Firefox](https://www.mozilla.org/en-US/firefox/) - open source Web browser
