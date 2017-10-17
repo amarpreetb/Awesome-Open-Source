@@ -12,7 +12,9 @@ For more open source software visit https://sourceforge.net/
 - [File Sharing](#file-sharing)
 - [Gaming](#gaming)
 - [Image](#image)
+- [Operating Systems](#operating-system)
 - [Video](#video)
+- [Web Browsers](#web-browsers)
 
 ## Audio
 - [Audacity](http://www.audacityteam.org/) - A free audio editor and recorder. 
