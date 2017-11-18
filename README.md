@@ -58,6 +58,7 @@ For more open source software visit https://sourceforge.net/
 - [Light Table](https://github.com/LightTable/LightTable)
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 - [Notepad++](https://notepad-plus-plus.org/)
+- [SQL Operations Studio](https://github.com/Microsoft/sqlopsstudio) - SQL Operations Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
 #### IDEs
 - [Code Blocks](http://www.codeblocks.org/downloads) - C, C++ and Fortran 
