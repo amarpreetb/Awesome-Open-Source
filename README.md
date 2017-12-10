@@ -8,6 +8,7 @@ For more open source software visit https://sourceforge.net/
 - [Audio](#audio)
 - [Business/Education](#businesseducation)
 - [Books](#books) - Free Books
+- [Communication](#communication)
 - [Developer Tools](#developer-tools)
 - [File Sharing](#file-sharing)
 - [Gaming](#gaming)
@@ -49,6 +50,14 @@ For more open source software visit https://sourceforge.net/
 - [How to Think Like a Computer Scientist ](http://greenteapress.com/thinkcpp/index.html)
 - [Open Data Structures (in C++)](http://opendatastructures.org/ods-cpp/)
 
+## Communication
+
+#### Chat/Messaging 
+- [Pidgin](http://www.pidgin.im/about/) - A free chat client used by millions. Connect easily to AIM, Google Talk, ICQ, XMPP, and other chat networks all at once.
+- [Tox](https://tox.chat/) - Tox is a peer-to-peer instant-messaging and video-calling protocol that offers end-to-end encryption
+- [Jitsi](https://jitsi.org/) - video conferencing platform that securely connects users across browsers and devices
+- [Signal](https://signal.org/) - Signal is an encrypted communications application for Android and iOS
+
 ## Developer Tools
 #### Text Editors
 - [Atom](https://github.com/atom/atom)
@@ -77,6 +86,12 @@ For more open source software visit https://sourceforge.net/
 
 ## File Sharing
 - [qBittorrent](https://www.qbittorrent.org/) - A free and reliable P2P BitTorrent client
+- [FileZilla](https://filezilla-project.org/index.php) - cross-platform graphical FTP, SFTP, and FTPS file management tool for Windows, Linux, Mac OS X
+- [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent
+- [Deluge](http://deluge-torrent.org/) - Deluge is a full-featured BitTorrent client for Linux, Unix and Windows
+
+#### File Compression 
+- [7Zip](http://www.7-zip.org/download.html)
 
 ## Gaming
 #### Open Source Games
@@ -120,6 +135,8 @@ For more open source software visit https://sourceforge.net/
 ## Video
 - [VLC](https://www.videolan.org/vlc/index.html) - cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols. 
 - [Media Player Classic](https://sourceforge.net/projects/mpc-hc/?source=directory)
+- [HandBrake](https://handbrake.fr/) - Convert video from nearly any format
+- [Kodi](https://kodi.tv/) - media player software application developed by the XBMC Foundation
 
 #### Video Editing
 - [VirtualDub](http://virtualdub.org/index.html) - VirtualDub is a video capture/processing utility for 32-bit and 64-bit Windows platforms
