@@ -74,6 +74,7 @@ For more open source software visit https://sourceforge.net/
 - [Eclipse](https://www.eclipse.org/downloads/) - C, C++, Java and PHP
 - [Codelite](https://codelite.org/) - C, C++, PHP and JavaScript
 - [NetBeans](https://netbeans.org/) -  Java, JavaScript, HTML5, PHP, C/C++
+- [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=windows) - Java, Groovy, Scala and Android development
 - [Dev C++](https://sourceforge.net/projects/orwelldevcpp/) - C/C++
 - [DrJava](https://sourceforge.net/projects/drjava/?source=directory) - Java
 - [Aptana](http://www.aptana.com/) - Web Development IDE
